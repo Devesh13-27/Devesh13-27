@@ -100,23 +100,20 @@ A complete careers portal with a **self-managed HR admin panel**, allowing the c
 
 ---
 
-# 🔥 Contribution Streak
+## 📊 GitHub Contributions
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Devesh13-27&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://streak-stats.demolab.com?user=Devesh13-27&theme=tokyonight&hide_border=true&hide_current_streak=true&hide_longest_streak=true" />
 </p>
-
 ---
 
-# 🐍 Contribution Graph
+## 🐍 Contribution Graph
 
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Devesh13-27/Devesh13-27/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Devesh13-27/Devesh13-27/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Devesh13-27/Devesh13-27/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Devesh13-27/Devesh13-27/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
