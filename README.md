@@ -99,12 +99,6 @@ A complete careers portal with a **self-managed HR admin panel**, allowing the c
 </p>
 
 ---
-
-## 📊 GitHub Contributions
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Devesh13-27&theme=tokyonight&hide_border=true&hide_current_streak=true&hide_longest_streak=true" />
-</p>
 ---
 
 ## 🐍 Contribution Graph
