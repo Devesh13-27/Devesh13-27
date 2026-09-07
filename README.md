@@ -1,8 +1,8 @@
-# Hey, I'm Devesh Amberkar
+# Devesh Amberkar
 
 ### AI/ML • Full-Stack Developer • Builder
 
-I'm a Computer Engineering student who enjoys turning ideas into **real-world products**.
+I'm a Artificial Intelligence & Data Science Engineering student who enjoys turning ideas into **real-world products**.
 
 My interests span **Artificial Intelligence, Machine Learning, full-stack web development, and mobile applications** — with a focus on building things that are actually useful.
 
