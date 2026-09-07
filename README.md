@@ -39,7 +39,7 @@ My interests span **Artificial Intelligence, Machine Learning, full-stack web de
 
 **End-to-end device recovery ecosystem**
 
-An enterprise-grade device recovery ecosystem designed to revolutionize how **lost and stolen phones are tracked, identified, and recovered in India**.
+An enterprise-grade device recovery and alarming ecosystem designed to revolutionize how **lost and stolen phones are tracked, identified, and recovered in India** using **Bluetooth Low Energy**.
 
 **Focus:** `Device Recovery` `BLE` `Tracking` `Security` `AI/ML`
 
